@@ -60,7 +60,7 @@ These insights can support data-driven decision-making in business environments.
 ## How to Run the Project
 
 1. Clone the repository:
-   git clone 
+   git clone https://github.com/SemenyukAndrey/Data-Exploration-Preparation-CA1---Salary-Survey-Dataset-.git
 2. Install required libraries:
    pip install pandas numpy matplotlib
 
