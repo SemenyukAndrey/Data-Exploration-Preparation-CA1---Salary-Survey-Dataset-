@@ -69,6 +69,7 @@ These insights can support data-driven decision-making in business environments.
 
 4. Run the notebook files step by step.
 
+---
 ## Author
 Andrii Semeniuk  
 Diploma in Data Analytics for Business, CCT College Dublin
